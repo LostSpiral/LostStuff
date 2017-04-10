@@ -3,5 +3,5 @@
 
 #!/bin/bash
 
-python3 -c "__import__(__import__('binascii').unhexlify(str(hex(0x737973))[2:].encode()).decode('ascii')).exit('eyB'[::-True])"
+python3 -c "\__import\__(\__import\__('binascii').unhexlify(str(hex(0x737973))[2:].encode()).decode('ascii')).exit('eyB'[::-True])"
 
